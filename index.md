@@ -8,11 +8,11 @@
 
   <body>
 
-    <header>
+   <header>
       <h1>United States Constitution</h1>
     </header>
 
-    <nav>
+   <nav>
       <ul>
         <li><a href="preamble">Preamble</li>
         <li><a href="articles">Articles
@@ -60,34 +60,34 @@
       </ul>
     </nav>
 
-    <main>
+   <main>
 
-      <section id="preamble">
+   <section id="preamble">
         <h2>Preamble</h2>
 
-        <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
+   <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
       </section>
 
 
-      <section id="articles">
+   <section id="articles">
         <h2>Articles</h2>
 
-        <article>
+   <article>
           <h3>Article I</h3>
 
-          <p>All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.</p>
+   <p>All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.</p>
         </article>
 
-        <article>
+   <article>
           <h3>Article II</h3>
 
-          <p>The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows...</p>
+   <p>The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows...</p>
         </article>
 
-        <article>
+   <article>
           <h3>Article III</h3>
 
-          <p>The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.</p>
+   <p>The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.</p>
         </article>
 
         <article>
